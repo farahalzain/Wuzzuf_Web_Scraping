@@ -1,4 +1,4 @@
-#***Wuzzuf Web Scraping – Python Project***
+# ***Wuzzuf Web Scraping – Python Project***
 
 **Wuzzuf Web Scraping** is a Python project designed to extract job postings from [Wuzzuf](https://wuzzuf.net/) for multiple keywords such as Data Science, Machine Learning, AI, and Python Developer. The project scrapes job titles, company names, occupations, specifications, and links to postings, and saves the results into CSV files.
 
